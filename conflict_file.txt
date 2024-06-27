@@ -1,3 +1,7 @@
 Row 1
-Changet row 2 in branchA
+<<<<<<< HEAD
+Changet row 2 in branchA and branchB
+=======
+Changet row 2 in branchA and branchB
+>>>>>>> branchB
 Row 3
