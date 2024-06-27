@@ -1,7 +1,3 @@
 Row 1
-<<<<<<< HEAD
 Changet row 2 in branchA and branchB
-=======
-Changet row 2 in branchA and branchB
->>>>>>> branchB
 Row 3
